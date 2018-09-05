@@ -11,7 +11,7 @@ def second_challenge
   groceries.each do |key, value|
     
     #value.push(new_array)
-    value << new_array
+    new_array << value
     
     
    
