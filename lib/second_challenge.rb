@@ -8,7 +8,7 @@ def second_challenge
   }
 
   #code your solution here!
-  groceries.collect do |key, value|
+  groceries.collect do | value|
     binding.pry
    
    
