@@ -11,9 +11,12 @@ def second_challenge
   groceries.each do |key, value|
    if value == ""
     value.collect[food] do |food|
+    end
+   end
+  end
     
     
-   end 
+end 
   
    
    
