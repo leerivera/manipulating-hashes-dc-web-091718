@@ -6,7 +6,7 @@ def second_challenge
    meat: ["chicken", "steak", "salmon"],
    grains: ["rice", "pasta"]
   }
-  new_hash = []
+  new_array = []
   #code your solution here!
   groceries.collect do |key, value|
     value << new_hash
