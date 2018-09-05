@@ -8,10 +8,8 @@ def second_challenge
   }
 
   #code your solution here!
-  groceries.collect do |key, value|
-   value.each do |food|
-     reuire.pry
-    end
+  groceries.each do |key, value|
+    
     
    end 
   
