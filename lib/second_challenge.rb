@@ -12,7 +12,7 @@ def second_challenge
     
     #value.push(new_array)
     value << new_array
-    binding.pry 
+    
     
    
    
