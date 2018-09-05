@@ -9,7 +9,7 @@ def second_challenge
   new_array = []
   #code your solution here!
   groceries.each do |key, value|
-    binding.pry
+    
     #value.push(new_array)
     value << new_array
     
