@@ -9,7 +9,7 @@ def second_challenge
   new_array = []
   #code your solution here!
   groceries.collect do |key, value|
-    groceries[value] = new_array
+    value << new_array
     binding.pry
    
    
