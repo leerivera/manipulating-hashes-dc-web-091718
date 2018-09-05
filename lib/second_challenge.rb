@@ -9,9 +9,10 @@ def second_challenge
 
   #code your solution here!
   groceries.collect do |key, value|
-  puts value
+   value.each do |food|
+    end
     
-    end 
+   end 
   
    
    
