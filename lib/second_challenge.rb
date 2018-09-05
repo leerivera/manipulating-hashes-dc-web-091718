@@ -13,7 +13,7 @@ def second_challenge
    
     value.collect do |food|
     end
-   end
+   
   end
     
     
